@@ -9,3 +9,5 @@ class Dog
 
 
 end
+
+snoop = dog.new
