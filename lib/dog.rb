@@ -4,7 +4,7 @@ class Dog
 
   def initialize
     @name = name
-    @sound = sound
+    @bark = bark
   end
 
 
