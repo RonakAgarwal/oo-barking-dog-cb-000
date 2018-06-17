@@ -2,17 +2,13 @@
 
 class Dog
 
-  def initialize(name=" ", sound="woof!")
+  def initialize
     @name = name
     @sound = sound
   end
 
-  def bark
-    puts Dog.sound
-  end
 
 end
 
-snoop = Dog.new
 
-snoop.name = "snoop"
+
