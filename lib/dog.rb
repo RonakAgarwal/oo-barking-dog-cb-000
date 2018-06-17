@@ -11,5 +11,3 @@ class Dog
   end
 
 end
-
-snoop = Dog.new
