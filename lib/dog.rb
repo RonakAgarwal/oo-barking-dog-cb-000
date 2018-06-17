@@ -14,3 +14,5 @@ class Dog
 end
 
 snoop = Dog.new
+
+snoop.name = "snoop"
